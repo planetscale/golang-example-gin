@@ -20,7 +20,7 @@ put {{hostname}}/products/4
 Content-Type: application/json
 
 {
-  "Name": "Miles Per Hour",
+  "Name": "Feet Prower",
   "Price": 1500
 }
 
