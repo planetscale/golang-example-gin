@@ -25,6 +25,7 @@ You can find more information in the [Foreign key constraints section of the Go 
 ## More resources
 
 **Go resources**
+
 - For more in-depth Go instructions, check out the [Go quickstart](https://docs.planetscale.com/tutorials/connect-go-app).
 
 **Next steps**
