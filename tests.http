@@ -1,0 +1,28 @@
+@hostname = http://localhost:8080
+
+### Get Products
+get {{hostname}}/products
+
+### Get Single Product
+get {{hostname}}/products/2
+
+### Create Product
+post {{hostname}}/products
+Content-Type: application/json
+
+{
+  "Name": "Slownic the Hedgepig",
+  "Price": 2500
+}
+
+### Update Product
+put {{hostname}}/products/4
+Content-Type: application/json
+
+{
+  "Name": "Miles Per Hour",
+  "Price": 1500
+}
+
+### Delete Product
+delete {{hostname}}/products/4

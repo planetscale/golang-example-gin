@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Fri, 23 Sep 2022 15:55:41 GMT
+Content-Length: 153
+Connection: close
+
+[
+  {
+    "Id": 1,
+    "Name": "Cyberfreak 2076",
+    "Price": 40
+  },
+  {
+    "Id": 2,
+    "Name": "Destination 2: Shining Decline",
+    "Price": 20
+  },
+  {
+    "Id": 3,
+    "Name": "Edge Properties 3",
+    "Price": 15
+  }
+]
