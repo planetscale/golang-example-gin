@@ -1,33 +1,25 @@
 ---
-- - :approve
-  - MIT
-  - :who: 
-    :why: 
-    :versions: []
-    :when: 2022-09-23 19:03:38.721903000 Z
-- - :approve
-  - 'Mozilla Public License 2.0''
-
-'
-  - :who: 
-    :why: 
-    :versions: []
-    :when: 2022-09-23 19:04:04.787370000 Z
-- - :approve
-  - Mozilla Public License 2.0
-  - :who: 
-    :why: 
-    :versions: []
-    :when: 2022-09-23 19:04:09.097992000 Z
-- - :approve
+- - :permit
   - New BSD
   - :who: 
     :why: 
     :versions: []
-    :when: 2022-09-23 19:04:16.911393000 Z
-- - :approve
-  - Apache 2.0, MIT
+    :when: 2022-09-23 19:08:05.294086000 Z
+- - :permit
+  - New BSD
   - :who: 
     :why: 
     :versions: []
-    :when: 2022-09-23 19:06:05.872816000 Z
+    :when: 2022-09-23 19:08:12.352513000 Z
+- - :permit
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2022-09-23 19:08:16.926517000 Z
+- - :permit
+  - Mozilla Public License 2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2022-09-23 19:08:25.626847000 Z
