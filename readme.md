@@ -20,16 +20,16 @@ Follow the instructions below to find and insert your PlanetScale credentials.
 3. Use `tests.http` file with the VS Code Rest Client plugin to test the API, or use the contents as a reference for your preferred API testing software.
 
 
-You can find more information in the [Foreign key constraints section of the Go quickstart](https://docs.planetscale.com/tutorials/connect-go-app#foreign-key-constraints).
+You can find more information in the [Foreign key constraints section of the Go quickstart](https://planetscale.com/docs/tutorials/connect-go-app#foreign-key-constraints).
 
 ## More resources
 
 **Go resources**
 
-- For more in-depth Go instructions, check out the [Go quickstart](https://docs.planetscale.com/tutorials/connect-go-app).
+- For more in-depth Go instructions, check out the [Go quickstart](https://planetscale.com/docs/tutorials/connect-go-app).
 
 **Next steps**
 
-- Learn more about the [PlanetScale workflow](https://docs.planetscale.com/concepts/planetscale-workflow).
-- Learn how to [branch your PlanetScale database](https://docs.planetscale.com/concepts/branching) for development.
-- Learn how to ship schema changes to production with [deploy requests](https://docs.planetscale.com/concepts/deploy-requests).
+- Learn more about the [PlanetScale workflow](https://planetscale.com/docs/concepts/planetscale-workflow).
+- Learn how to [branch your PlanetScale database](https://planetscale.com/docs/concepts/branching) for development.
+- Learn how to ship schema changes to production with [deploy requests](https://planetscale.com/docs/concepts/deploy-requests).
