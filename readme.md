@@ -1,5 +1,7 @@
 # Connecting to PlanetScale from Go
 
+> **Note:** This example targets PlanetScale Vitess/MySQL. PlanetScale also offers managed Postgres. For more information, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
+
 This example demonstrates how to connect a Go application to a PlanetScale database using [`go-sql-driver/mysql`](https://github.com/go-sql-driver/mysql).
 
 Follow the instructions below to find and insert your PlanetScale credentials.
