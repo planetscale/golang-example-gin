@@ -1,6 +1,6 @@
 # Connecting to PlanetScale from Go
 
-> **Note:** This example uses [`go-sql-driver/mysql`](https://github.com/go-sql-driver/mysql) for PlanetScale Vitess/MySQL. PlanetScale also offers managed PostgreSQL; use a PostgreSQL driver (for example [`pgx`](https://github.com/jackc/pgx) or [`lib/pq`](https://github.com/lib/pq)) and Postgres connection settings for those databases. For more information and examples, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
+> **Note:** This example targets PlanetScale Vitess/MySQL. PlanetScale also offers managed PostgreSQL. For more information, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
 
 This example demonstrates how to connect a Go application to a PlanetScale database using [`go-sql-driver/mysql`](https://github.com/go-sql-driver/mysql).
 
